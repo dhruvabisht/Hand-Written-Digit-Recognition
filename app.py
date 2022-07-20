@@ -1,4 +1,4 @@
-pip install opencv-python
+pip3 install opencv-python
 !pip install cv2
 !pip install torch
 !pip install numpy
