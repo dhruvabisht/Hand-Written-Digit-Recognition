@@ -1,3 +1,10 @@
+!pip install opencv-python
+!pip install cv2
+!pip install torch
+!pip install numpy
+!pip install streamlit
+!pip install streamlit_drawable_canvas
+!pip install plotly
 import cv2
 import torch 
 import numpy as np
